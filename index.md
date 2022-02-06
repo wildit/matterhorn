@@ -29,7 +29,7 @@ Matterhorn METS is a METS-Profile on which we started to work in 2008 and regist
 - When RiC-O didn't exist yet, we used a combination of existing ontologies to model the descriptive metadata. See our first, but now [obsolete Specification of Matterhorn RDF.](https://wiki.docuteam.ch/doku.php?id=docuteam:matterhornrdf)
 
 ### Paper:
-- [Alain Dubois, Tobias Wildi. The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL. Paper presented at the 16th International Conference on Digital Preservation iPRES 2019, Amsterdam, The Netherlands.](https://github.com/wildit/matterhorn/blob/main/documents/iPRES2019-Wildi-Dubois-Matterhorn%20RDF.pdf)
+- [Alain Dubois, Tobias Wildi. The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL. Paper presented at the 16th International Conference on Digital Preservation iPRES 2019, Amsterdam, The Netherlands.](https://zenodo.org/record/5984492)
 
 ## Presentations
 - [Alain Dubois, Tobias Wildi. Matterhorn RDF: Contextualize archival records with RiC and Premis. Presentation at the ICA International Council on Archives Virtual Conference 2021, 26.10.2021.](https://zenodo.org/record/5804872)
