@@ -18,8 +18,26 @@ Matterhorn METS is a METS-Profile on which we started to work in 2008 and regist
 - [Matterhorn METS-Profil, registered in 2012 at the Libray of Congress](https://www.loc.gov/standards/mets/news112912.html)
 
 
-Presentations and papers of Matterhorn METS:
+### Presentations and papers of Matterhorn METS:
 - [Tobias Wildi. PREMIS in METS: Die beiden Datenmodelle Matterhorn METS und Archivematica.  Nestor-Praktikertag 2018: Metadaten für die digitale Langzeitarchivierung und der Metadatenstandard PREMIS. Frankfurt am Main, 6. Juni 2018.](https://www.slideshare.net/TobiasWildi/premis-in-mets-die-beiden-datenmodelle-matterhorn-mets-und-archivematica)
+- [Alain Dubois. Quelle qualité pour les archives électroniques ? Réflexions et retour d’expérience autour du processus décisionnel du Conseil d’Etat valaisan. In: Ressi, N°14 décembre 2013.](http://www.ressi.ch/num14/article_94)
+- [Alain Dubois, Tobias Wildi. Vers une intégration complète des standards de description du Conseil international des Archives ?Réflexions autour du processus décisionnel du Conseil d’Etat valaisan. Forum des archivistes genevois – 17 juin 2013.](https://www.slideshare.net/TobiasWildi/presentation-geneve-20130617)
+- [Alain Dubois, Tobias Wildi. Contextualisation 2.0. Le Matterhorn METS Profile : un nouveau modèle d&#8217;organisation des données et métadonnées ? Présentation au &#8222;Forum des archivistes&#8220; 22.3.2013 à Angers.](https://de.slideshare.net/TobiasWildi/contextualisation-20)
+
+## Matterhorn RDF
+- An example of the same information package encoded in RDF and a METS can be found in the [examples-section of RiC-O](https://github.com/ICA-EGAD/RiC-O/tree/master/examples/examples_v0-2/Matterhorn-Switzerland)
+- When RiC-O didn't exist yet, we used a combination of existing ontologies to model the descriptive metadata. See our first, but now [obsolete Specification of Matterhorn RDF.](https://wiki.docuteam.ch/doku.php?id=docuteam:matterhornrdf)
+
+### Paper:
+- [Alain Dubois, Tobias Wildi. The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL. Paper presented at the 16th International Conference on Digital Preservation iPRES 2019, Amsterdam, The Netherlands.](https://github.com/wildit/matterhorn/blob/main/documents/iPRES2019-Wildi-Dubois-Matterhorn%20RDF.pdf)
+
+## Presentations
+- [Alain Dubois, Tobias Wildi. Matterhorn RDF: Contextualize archival records with RiC and Premis. Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021.](https://zenodo.org/record/5804872)
+- Alain Dubois, Tobias Wildi. The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL. Presentation at iPres 2019, Amsterdam 19.7.2019.
+- Alain Dubois, Tobias Wildi. Le Matterhorn RDF Data Model: Description archivistique et Linked Open Data. Vers quelle convergence? Présentation au &#8222;Forum des Archivistes; 5 avril 2019, Saint-Etienne.
+- [Alain Dubois, Andreas Nef. The Matterhorn RDF Data Model: Implemeting OAIS and RiC in the context of semantic technologies. ICA annual conference, 28.11.2017, Mexico.](http://www.alaarchivos.org/wp-content/uploads/2017/12/3.-Alain-Dubois-Andreas-Nef.pdf)
+- [Alain Dubois, Tobias Wildi. Le Matterhorn RDF Data Model: Implémentation des modèles d’information OAIS et RiC dans le cadre des technologies sémantiques. Présentation au forum des archivistes genevois (11.9.2017).](https://de.slideshare.net/forumdesarchivistes/le-matterhorn-rdf-data-model-80360789)
+
 
 
 
